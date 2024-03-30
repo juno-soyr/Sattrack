@@ -1,1 +1,1 @@
-/usr/bin/cc -rdynamic CMakeFiles/Sattrak.dir/src/main.c.o -o Sattrak  -lraylib
+/usr/bin/cc -rdynamic CMakeFiles/Sattrak.dir/src/main.c.o -o Sattrak  -lraylib -lm

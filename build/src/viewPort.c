@@ -1,6 +1,5 @@
         
-#include "globals.h"
-#include <raylib.h>
+#include "shapeFunctions.c"
 
 void initializeSettings(){
     const int screenWidth = 800;
@@ -37,7 +36,7 @@ void updateFunction(Vector3  spherePos){
 
         
         BeginMode3D(camera);
-            DrawEllipseLines(spherePos.x, spherePos.y, 10.0f, 5.0f, RED);
+            DrawEllipseLines3D(spherePos.x, spherePos.y,0, 10.0f, 5.0f, WHITE);
             DrawSphere(spherePos, 2.0f, GRAY);
 
             DrawCircle3D(spherePos, 4, (Vector3){1,0,0}, 45.0f, WHITE);

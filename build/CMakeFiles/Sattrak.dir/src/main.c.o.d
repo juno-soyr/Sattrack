@@ -2,6 +2,7 @@ CMakeFiles/Sattrak.dir/src/main.c.o: \
  /home/juno/Documents/stupid\ stuff/Sattrak/build/src/main.c \
  /usr/include/stdc-predef.h \
  /home/juno/Documents/stupid\ stuff/Sattrak/build/src/viewPort.c \
+ /home/juno/Documents/stupid\ stuff/Sattrak/build/src/shapeFunctions.c \
  /home/juno/Documents/stupid\ stuff/Sattrak/build/src/globals.h \
  /usr/include/raylib.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h \
