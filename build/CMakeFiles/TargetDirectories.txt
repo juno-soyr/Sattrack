@@ -1,0 +1,3 @@
+/home/juno/Documents/stupid stuff/Sattrak/build/CMakeFiles/Sattrak.dir
+/home/juno/Documents/stupid stuff/Sattrak/build/CMakeFiles/edit_cache.dir
+/home/juno/Documents/stupid stuff/Sattrak/build/CMakeFiles/rebuild_cache.dir

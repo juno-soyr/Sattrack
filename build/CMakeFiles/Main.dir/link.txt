@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/Main.dir/src/main.c.o -o Main  /usr/include/raylib.h
